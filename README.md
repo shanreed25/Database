@@ -22,4 +22,6 @@
 - there are other specialized databases such as In-Memory Databases, Time-Series Databases, Object-Oriented Databases and more
 ______________________________________________________________
 
-- [Relational Databases]()
+
+- [Relational Databases](./RelationalDatabases/README.md)
+- [Connecting to Applications](./AppConnection.md)

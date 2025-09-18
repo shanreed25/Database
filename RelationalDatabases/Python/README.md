@@ -19,8 +19,6 @@
 7. `Close Connection and Cursor`
 - close the cursor and the connection to release resources
 
-
-_______________________________________________________________
 ## Choosing a database connector library
 **Choosing a database connector library in Python depends on the specific database being used and the project's requirements**
 - you can choose a **Database-Specific Connector** or **Object-Relational Mappers (ORMs)**, each represent different levels of abstraction for interacting with relational databases in Python
