@@ -48,7 +48,7 @@
 
 - [SQL Components](./Components/)
 - [SQL Operations and Functions](./Operations-Functions/README.md)
-
+- [Example Database Projects and Queries](https://github.com/shanreed25/SQL)
 _____________________________________________________
 
 
