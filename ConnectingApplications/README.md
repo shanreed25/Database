@@ -11,6 +11,7 @@
     - database server is the actual database program running on a server that stores and organizes the data
 - converts generic data requests from your application, often using a standard API like JDBC or ODBC, into the specific protocol that the database understands
 - the standardized API allow you to write code using a common API, and the driver handles the database-specific communication, so you don't need to write custom code for each database type
+- Learn More about the ODBC API and driver [here](./ODBC.md)
 
 ### Connection string
 - a text string that contains all the necessary parameters to establish a connection to a specific database instance
@@ -67,4 +68,4 @@ _______________________________________________________________________________
 ____________________________________________________
 
 ####  Realtional Database Connections
-- [Python: Relational Databases](./RelationalDatabases/Python/README.md)
+- [Python: Relational Databases](../RelationalDatabases/Python/README.md)

@@ -21,3 +21,5 @@
 - close the cursor and the connection to release resources
 
 ____________________________________
+
+- see an example of using pyppyodbc [here](https://github.com/shanreed25/Python-Cheatsheet/blob/main/databaseconnections/SQL/pypyodbc-connection.py)

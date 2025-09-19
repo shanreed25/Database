@@ -24,4 +24,4 @@ ______________________________________________________________
 
 
 - [Relational Databases](./RelationalDatabases/README.md)
-- [Connecting to Applications](./AppConnection.md)
+- [Connecting to Applications](./ConnectingApplications/README.md)
