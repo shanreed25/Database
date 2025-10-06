@@ -1,4 +1,4 @@
-# Database
+# 🗃️ Database
 - Databases are used to store, manage, and retrieve data for applications
 - are essential for the core functions of most applications, enabling tasks like searching, sorting, reporting, and sharing information
 - act as the "memory" for software applications, storing all necessary information, from user profiles to complex transaction records
@@ -6,11 +6,11 @@
 - database design, query optimization, data security, and choosing the appropriate database system (DBMS) for a given project's needs are key aspects of this relationship include
 
 
-## Database Design
+## 🖼️ Database Design
 - the database's structure (schema) 
 - created by defining tables, relationships, and other objects, ensuring it aligns with the application's requirements
 
-## Database Types
+## 📚 Database Types
 - Software development utilizes various types of databases, each suited for different data structures and application requirements. 
 - **Relational Databases (SQL)** best for applications requiring data integrity, consistency, and complex relationship management. 
     - **Structure:** Organize data into tables with predefined schemas, rows, and columns. Relationships between tables are established using foreign keys.

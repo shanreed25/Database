@@ -1,4 +1,4 @@
-# SQL (Structured Query Language)
+# ⛩️ SQL (Structured Query Language)
 - the standard programming language used to interact with and manage relational databases
     - published standard (ANSI/ISO), providing a consistent way to interact with databases
     - database is a systematically organized collection of data
@@ -7,7 +7,7 @@
 - allows users to perform a wide range of operations on data, including creating databases and tables, retrieving data using queries, and modifying existing data by adding, updating, or deleting it
 - once you learn SQL, you can use it with many different database systems like MySQL, PostgreSQL, and Microsoft SQL Server 
 
-# Why use SQL
+# ❓ Why use SQL
 - manage large datasets effciently
     - easy to summarize data, by writing queries to get what you need
 - analyze and extract insights from data
@@ -17,14 +17,14 @@
 - supports multi-user access and scalability
 - enable data-driven decision-making
 
-### What you can do with SQL
+### 🥺 What you can do with SQL
 - **Create and define:** databases, tables, and other structures within a database. 
 - **Insert, update, and delete:** data within tables. 
 - **Retrieve data:** from databases by writing structured queries to select specific information. 
 - **Join data:** from multiple tables based on common columns to create more comprehensive reports. 
 - **Manage permissions:** to control access to the database and its data. 
 
-### How SQL works
+### 😫 How SQL works
 - **User Input:** You write a SQL statement (a command) that specifies the data operation you want to perform.
 - **Database Interaction:** A SQL engine within the database management system processes your query.
     - query is a request for data or information from a database
@@ -33,12 +33,12 @@
 - **Execution:** The query engine retrieves, modifies, or creates data according to your command.
 - **Results:** The database then returns the requested data or a success message to you.
 
-### SQL Commands
+### 🔊 SQL Commands
 - commands are instructions used to interact with a relational database management system (RDBMS) to perform various operations
 - commands are fundamental for managing, retrieving, and manipulating data stored in structured formats
 - categorized into several types based on their function
 
-#### Command Categories
+#### 🧮 Command Categories
 - **[Data Definition Language(DDL)](./Commands/DDL.md):** for defining and modifying the database structure
 - **[Data Manipulation Language(DML)](./Commands/DML.md):** for manipulating data within database tables
 - **[Data Control Language(DCL)](./Commands/DCL.md):**  for managing access rights and permissions within the database
@@ -51,7 +51,7 @@
 - [Example Database Projects and Queries](https://github.com/shanreed25/SQL)
 _____________________________________________________
 
-
+<!-- 
 # NULL
 - a special marker that signifies that the value is either unknown, not applicable, or will be added later
 - is distinct from zero, an empty string, or a blank space, as it represents the absence of any value
@@ -109,4 +109,4 @@ _____________________________________________________
 - Conditional updates or insertions: Modifying data based on certain conditions.
 - Conditional ordering: Sorting results based on different criteria.
 - Handling NULL values: Providing alternative values when a column contains NULL.
-- Creating pivot tables: Aggregating data conditionally across columns.
+- Creating pivot tables: Aggregating data conditionally across columns. -->
