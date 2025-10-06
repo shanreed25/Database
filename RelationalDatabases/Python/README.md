@@ -22,4 +22,4 @@
 
 ____________________________________
 
-- see an example of using pyppyodbc [here](https://github.com/shanreed25/Python-Cheatsheet/blob/main/databaseconnections/SQL/pypyodbc-connection.py)
+- see an example of using pyppyodbc [here](./pypyodbc-connection.py)

@@ -19,3 +19,4 @@
 - **Relationships:** tables are connected through defined relationships, often by using unique identifiers (like a customer ID) in multiple tables. This allows users to link and combine data from different tables to gain insights.
 
 - [SQL]()
+- [SQL: Python](./Python/README.md)
